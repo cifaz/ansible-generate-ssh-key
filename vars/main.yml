@@ -1,5 +1,3 @@
 # emtpy
----
-
 ssh-key-dir: /app/data/ssh-keys/
 ssh-key-name: id_rsa
