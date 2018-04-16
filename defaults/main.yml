@@ -1,4 +1,2 @@
-# emtpy
-
-ssh-key-dir: /app/data/ssh-keys/
-ssh-key-name: id_rsa
+ssh_key_dir: /app/data/ssh-keys/
+ssh_key_name: id_rsa
