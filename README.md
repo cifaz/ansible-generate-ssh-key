@@ -11,6 +11,14 @@ ansible-galaxy install cifaz.generate-ssh-key
 [变量, 目录和名称](vars/main.yml "目录和生成文件名称")
 
 
+### 示例
+```
+- hosts: local
+  roles:
+    - cifaz.generate-ssh-key
+```
+
+
 License
 -------
 
